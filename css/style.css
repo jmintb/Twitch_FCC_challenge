@@ -5,10 +5,6 @@
   box-shadow: 1px 1px 5px 1px;
 }
 
-
-.table-row{
-}
-
 .table-row-online{
   background-color: #64DD17;
   outline: none;
@@ -18,6 +14,10 @@ tr:hover.table-row{
   box-shadow: 1px 1px 3px 1px;
 
 
+}
+
+.channel-icon{
+  height: 40px;
 }
 
 .table-header{
